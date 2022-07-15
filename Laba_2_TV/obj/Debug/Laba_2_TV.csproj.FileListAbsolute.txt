@@ -1,0 +1,7 @@
+D:\вуз\ТеорВероят\лаба 2\Laba_2_TV\Laba_2_TV\bin\Debug\Laba_2_TV.exe.config
+D:\вуз\ТеорВероят\лаба 2\Laba_2_TV\Laba_2_TV\bin\Debug\Laba_2_TV.exe
+D:\вуз\ТеорВероят\лаба 2\Laba_2_TV\Laba_2_TV\bin\Debug\Laba_2_TV.pdb
+D:\вуз\ТеорВероят\лаба 2\Laba_2_TV\Laba_2_TV\obj\Debug\Laba_2_TV.csprojAssemblyReference.cache
+D:\вуз\ТеорВероят\лаба 2\Laba_2_TV\Laba_2_TV\obj\Debug\Laba_2_TV.csproj.CoreCompileInputs.cache
+D:\вуз\ТеорВероят\лаба 2\Laba_2_TV\Laba_2_TV\obj\Debug\Laba_2_TV.exe
+D:\вуз\ТеорВероят\лаба 2\Laba_2_TV\Laba_2_TV\obj\Debug\Laba_2_TV.pdb
